@@ -44,6 +44,10 @@
 * SystemVerilog Assertions (SVA)
 * Functional Coverage
 
+### 🔹 Programming & Scripting
+
+* Perl (Automation & Scripting)
+
 ### 🔹 Protocols
 
 * SPI
