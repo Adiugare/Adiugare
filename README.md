@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditya Ugare
 
 🎯 **VLSI Design & Verification Engineer (Trainee)**
-⚡ Focused on RTL Design and UVM Verification with hands-on experience using industry-standard tools like VCS, QuestaSim, and Vivado
+⚡ Focused on RTL Design and UVM Verification with hands-on experience using industry-standard tools like VCS, QuestaSim, Vivado, and Xilinx ISE
 
 ---
 
@@ -16,6 +16,7 @@
 ![VCS](https://img.shields.io/badge/VCS-Synopsys-black?style=for-the-badge)
 ![QuestaSim](https://img.shields.io/badge/QuestaSim-Siemens-blue?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Vivado-Xilinx-purple?style=for-the-badge)
+![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-FPGA-blue?style=for-the-badge)
 ![Verdi](https://img.shields.io/badge/Verdi-Debug-success?style=for-the-badge)
 
 ---
@@ -24,7 +25,7 @@
 
 * 🎓 Electronics & Communication Engineering Graduate
 * 📘 Currently undergoing professional training in VLSI Design & Verification
-* 🛠️ Hands-on experience with **VCS, QuestaSim, and Vivado**
+* 🛠️ Hands-on experience with **VCS, QuestaSim, Vivado, and Xilinx ISE**
 * 🔍 Developing and verifying protocol-based RTL designs using industry methodologies
 
 ---
@@ -71,7 +72,7 @@ Designed and verified a protocol bridge enabling communication between APB and S
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adiugare\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Adiugare\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Adiugare\&theme=tokyonight\&hide_border=true)
 
 ---
 
