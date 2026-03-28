@@ -1,16 +1,89 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya Ugare
 
-<!--
-**Adiugare/Adiugare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **VLSI Design & Verification Engineer (Trainee)**
+⚡ Focused on RTL Design and UVM Verification with hands-on experience using industry-standard tools like VCS, QuestaSim, and Vivado
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Electronics & Communication Engineering Graduate
+* 📘 Currently undergoing professional training in VLSI Design & Verification
+* 🛠️ Gaining hands-on experience with **VCS, QuestaSim, and Vivado**
+* 🔍 Developing and verifying protocol-based RTL designs using industry methodologies
+
+---
+
+## 🧰 Technical Skills
+
+### 🔹 Design
+
+* Verilog, Advanced Verilog
+* RTL Design (FSM, Datapath Design)
+
+### 🔹 Verification
+
+* UVM (Universal Verification Methodology)
+* SystemVerilog Assertions (SVA)
+* SystemVerilog
+* Functional Coverage
+
+### 🔹 Protocols
+
+* SPI
+* APB
+
+### 🔹 Tools & Simulators
+
+* Synopsys VCS
+* Siemens QuestaSim (ModelSim)
+* Xilinx Vivado
+
+### 🔹 Debug & Analysis
+
+* Verdi (Waveform Debugging)
+* Simulation Waveform Analysis
+
+---
+
+## 📂 Featured Projects
+---
+
+### 🔹 APB to SPI Bridge – Design & Verification
+
+* Designed an APB to SPI bridge for protocol conversion
+* Implemented RTL for APB interface and SPI communication
+* Developed verification environment to validate data transfer
+* Verified simulations using VCS and QuestaSim
+* Performed waveform analysis to ensure correct protocol behavior
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
+
+---
+
+## 🏆 Highlights
+
+* 🎓 Trained in RTL Design & UVM methodologies
+* 🛠️ Built protocol-based design and verification projects
+* 📊 Strong debugging, simulation, and waveform analysis skills
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/aditya-ugare
+* 📧 Email: adityaugare2003@gmail.com
+
+---
+
+⭐ *“Precision in design and rigor in verification drive reliable silicon.”*
