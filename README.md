@@ -66,12 +66,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Adiugare&theme=tokyonight&hide_border=true)
 ---
 
-## 📈 Contribution Graph
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Adiugare&theme=tokyonight&hide_border=true)
-
----
-
 ## 🏆 Highlights
 
 * 🎓 Trained in RTL Design & UVM methodologies
