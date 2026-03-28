@@ -68,7 +68,7 @@
 
 ## 📈 Contribution Graph
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Adiugare&theme=tokyonight&hide_border=true)
 
 ---
 
