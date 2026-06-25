@@ -95,13 +95,6 @@
 
 ---
 
-### 🔹 All-Digital Phase-Locked Loop (ADPLL)
-
-* Designed synthesizable ADPLL including Phase Detector, Loop Filter, and NCO
-* Verified frequency and phase locking through simulation
-
----
-
 ### 🔹 Mod-12 Counter
 
 * Designed RTL and SystemVerilog testbench
