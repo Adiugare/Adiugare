@@ -140,4 +140,4 @@
 
 ---
 
-⭐ *“Precision in design and rigor in verification drive reliable silicon.”*
+
