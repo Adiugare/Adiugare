@@ -21,7 +21,6 @@
 ![ModelSim](https://img.shields.io/badge/ModelSim-Simulation-lightgrey?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Vivado-Xilinx-purple?style=for-the-badge)
 ![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-FPGA-blue?style=for-the-badge)
-![Cadence Allegro](https://img.shields.io/badge/Cadence-Allegro-orange?style=for-the-badge)
 
 ---
 
@@ -54,7 +53,6 @@
 
 * Synopsys VCS, QuestaSim, ModelSim
 * Xilinx ISE, Vivado
-* Cadence Allegro (PCB Design)
 
 ### 🔹 Programming
 
