@@ -11,6 +11,7 @@
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-UVM-green?style=for-the-badge)
 ![UVM](https://img.shields.io/badge/UVM-Verification-orange?style=for-the-badge)
 ![SVA](https://img.shields.io/badge/SVA-Assertions-red?style=for-the-badge)
+![RISC-V](https://img.shields.io/badge/RISC--V-RV32I-9cf?style=for-the-badge)
 
 ![AXI](https://img.shields.io/badge/AXI-Protocol-purple?style=for-the-badge)
 ![APB](https://img.shields.io/badge/APB-Bus-yellow?style=for-the-badge)
@@ -21,6 +22,7 @@
 ![ModelSim](https://img.shields.io/badge/ModelSim-Simulation-lightgrey?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Vivado-Xilinx-purple?style=for-the-badge)
 ![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-FPGA-blue?style=for-the-badge)
+![Icarus Verilog](https://img.shields.io/badge/Icarus%20Verilog-Simulation-lightblue?style=for-the-badge)
 
 ---
 
@@ -40,6 +42,7 @@
 
 * Verilog, Advanced Verilog
 * RTL Design (FSM, Datapath, Digital Systems)
+* RISC-V CPU Design (RV32I, Single-Cycle Architecture)
 * FPGA Implementation
 
 ### 🔹 Verification
@@ -53,6 +56,7 @@
 
 * Synopsys VCS, QuestaSim, ModelSim
 * Xilinx ISE, Vivado
+* Icarus Verilog
 
 ### 🔹 Programming
 
@@ -74,6 +78,16 @@
 ---
 
 ## 🚀 Key Projects
+
+### 🔹 RV32I Single-Cycle RISC-V Core (RTL Design)
+
+* Designed a single-cycle RV32I RISC-V CPU core in Verilog with ALU, register file, immediate generator, control unit, instruction memory, and data memory modules
+* Supported R/I/S/B/J instruction formats covering the core RV32I subset
+* Built a testbench validating loop control flow, register write-back, and SW/LW memory round-trip
+* Verified on both Icarus Verilog and Xilinx Vivado (XSim)
+* Tools: Icarus Verilog, Xilinx Vivado (XSim)
+
+---
 
 ### 🔹 AXI VIP Verification (UVM)
 
@@ -139,5 +153,3 @@
 * 📧 Email: [adityaugare2003@gmail.com](mailto:adityaugare2003@gmail.com)
 
 ---
-
-
