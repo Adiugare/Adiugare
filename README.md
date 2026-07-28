@@ -1,78 +1,126 @@
-<h1 align="center">Aditya Ugare</h1>
+<h1 align="center">Hi, I'm Aditya Ugare</h1>
 <h3 align="center">VLSI Design & Verification Engineer (Trainee)</h3>
 
 <p align="center">
-RTL design and UVM-based verification, with hands-on experience across industry-standard EDA tools and methodologies.
+Specialized in RTL Design & UVM Verification, with hands-on experience in industry-standard tools and methodologies.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-ugare">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:adityaugare2003@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/aditya-ugare"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:adityaugare2003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### About
+### About Me
 
-I'm an Electronics & Communication Engineering graduate (CGPA: 8.03) currently working as a VLSI Design & Verification Trainee at Maven Silicon, Bengaluru. My work focuses on RTL design and UVM verification, building constrained-random testbenches and closing coverage on digital and protocol-based designs, typically reaching 95%+ functional and code coverage.
+- Electronics & Communication Engineering graduate (CGPA: 8.03)
+- VLSI Design & Verification Trainee at **Maven Silicon**, Bengaluru
+- Strong foundation in Digital Design, RTL, and UVM Verification
+- Experienced in building robust UVM testbenches with **95%+ functional & code coverage**
+- Passionate about delivering high-quality silicon through rigorous verification
 
 ---
 
 ### Tech Stack
 
-**Design:** Verilog, RTL Design (FSM, Datapath), RISC-V (RV32I), FPGA Implementation
+**Design**
+![Verilog](https://img.shields.io/badge/Verilog-RTL-blue?style=flat-square)
+![RISC-V](https://img.shields.io/badge/RISC--V-RV32I-9cf?style=flat-square)
+![FPGA](https://img.shields.io/badge/FPGA-Implementation-blue?style=flat-square)
 
-**Verification:** SystemVerilog, UVM, Constrained-Random Verification, Functional & Code Coverage, SVA
+**Verification**
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-UVM-green?style=flat-square)
+![UVM](https://img.shields.io/badge/UVM-Verification-orange?style=flat-square)
+![SVA](https://img.shields.io/badge/SVA-Assertions-red?style=flat-square)
 
-**Protocols:** AXI, APB, SPI
+**Protocols**
+![AXI](https://img.shields.io/badge/AXI-Protocol-purple?style=flat-square)
+![APB](https://img.shields.io/badge/APB-Bus-yellow?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-Protocol-red?style=flat-square)
 
-**Tools:** Synopsys VCS, QuestaSim, ModelSim, Xilinx ISE, Vivado, Icarus Verilog
-
-**Scripting:** Perl
+**Tools**
+![VCS](https://img.shields.io/badge/VCS-Synopsys-black?style=flat-square)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-Siemens-blue?style=flat-square)
+![ModelSim](https://img.shields.io/badge/ModelSim-Simulation-lightgrey?style=flat-square)
+![Vivado](https://img.shields.io/badge/Vivado-Xilinx-purple?style=flat-square)
+![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-FPGA-blue?style=flat-square)
+![Icarus Verilog](https://img.shields.io/badge/Icarus%20Verilog-Simulation-lightblue?style=flat-square)
 
 ---
 
 ### Experience
 
 **VLSI Design & Verification Trainee**
-Maven Silicon, Bengaluru — Jul 2025 to Present
+*Maven Silicon, Bengaluru — Jul 2025 to Present*
 
 - Developed RTL and UVM-based verification environments
 - Built constrained-random testbenches with assertions and protocol checkers
-- Achieved 95%+ functional and code coverage
+- Achieved 95%+ functional & code coverage
 - Verified FSMs, counters, memory, and protocol-based designs (AXI, APB, SPI)
 
 ---
 
-### Projects
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **RV32I Single-Cycle RISC-V Core**
-`Verilog` `Icarus Verilog` `Vivado`
-Designed a single-cycle RV32I CPU core in Verilog, including the ALU, register file, immediate generator, control unit, instruction memory, and data memory, supporting R/I/S/B/J instruction formats. Built a testbench validating control flow, register write-back, and load/store memory operations. Verified on Icarus Verilog and Xilinx Vivado (XSim).
+RTL design of a single-cycle RV32I CPU in Verilog, including ALU, register file, immediate generator, control unit, instruction memory, and data memory. Supports R/I/S/B/J instruction formats. Verified on Icarus Verilog and Xilinx Vivado (XSim).
 
-**AXI VIP Verification**
+`Verilog` `Icarus Verilog` `Vivado`
+
+</td>
+<td width="50%" valign="top">
+
+**AXI VIP Verification (UVM)**
+AXI4 VIP verifying read/write transactions, burst types, and out-of-order responses. Built reusable UVM components — driver, monitor, scoreboard, and coverage collector — with assertion-based checks.
+
 `SystemVerilog` `UVM` `VCS` `QuestaSim`
-Developed an AXI4 verification IP to check read/write transactions, burst types, and out-of-order responses. Built reusable UVM components — driver, monitor, scoreboard, and coverage collector — with assertion-based checks.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **APB to SPI Bridge**
+RTL design of APB interface and SPI communication modules, with a UVM testbench for protocol validation. Verified using directed and constrained-random testcases; achieved coverage closure via waveform analysis.
+
 `Verilog` `UVM`
-Designed RTL for an APB interface and SPI communication module, and built a UVM testbench for protocol validation using directed and constrained-random testcases. Achieved coverage closure through waveform-based debugging.
+
+</td>
+<td width="50%" valign="top">
 
 **Mod-12 Counter**
-`SystemVerilog`
-Designed RTL and a SystemVerilog testbench, achieving 100% functional coverage.
+RTL design with a SystemVerilog testbench, achieving 100% functional coverage.
 
-**Traffic Light Controller**
+`SystemVerilog`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Traffic Light Controller (FSM)**
+6-state Moore FSM with correct sequencing verified through simulation.
+
 `Verilog`
-Implemented a 6-state Moore FSM and verified correct sequencing through simulation.
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
 
 ---
 
 ### Achievements
 
-- 3rd Place, State Level Project Exhibition
+- 3rd Place — State Level Project Exhibition
 - Certified in Verilog & SystemVerilog (Cadence, Udemy)
-- Experienced in debugging, coverage closure, and waveform analysis
+- Strong expertise in debugging, coverage closure, and waveform analysis
 
 ---
 
@@ -89,5 +137,6 @@ Implemented a 6-state Moore FSM and verified correct sequencing through simulati
 ---
 
 <p align="center">
-adityaugare2003@gmail.com &nbsp;|&nbsp; linkedin.com/in/aditya-ugare
+<a href="mailto:adityaugare2003@gmail.com">adityaugare2003@gmail.com</a> &nbsp;|&nbsp;
+<a href="https://www.linkedin.com/in/aditya-ugare">linkedin.com/in/aditya-ugare</a>
 </p>
