@@ -54,7 +54,7 @@ Specialized in RTL Design & UVM Verification, with hands-on experience in indust
 
 ### Experience
 
-**VLSI Design & Verification Trainee**  
+**VLSI Design & Verification Trainee**
 *Maven Silicon, Bengaluru — Jul 2025 to Present*
 
 - Developed RTL and UVM-based verification environments
@@ -116,22 +116,24 @@ RTL design of APB interface and SPI communication modules, with a UVM testbench 
 
 ### Achievements
 
-- 🏆 3rd Place — State Level Project Exhibition
-- 📜 Certified in Verilog & SystemVerilog (Cadence, Udemy)
-- 🔍 Strong expertise in debugging, coverage closure, and waveform analysis
+- 3rd Place — State Level Project Exhibition
+- Certified in Verilog & SystemVerilog (Cadence, Udemy)
+- Strong expertise in debugging, coverage closure, and waveform analysis
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adiugare&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiugare&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adiugare&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiugare&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adiugare&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
+
+> **Note:** `count_private` was removed — it silently does nothing on the shared `github-readme-stats.vercel.app` instance because that instance's GitHub token has no access to your private repos. If you want private commits included, deploy your own instance (the repo has a one-click "Deploy on Vercel" button) using your own GitHub token as the `PAT_1` environment variable, then point these image URLs at your own deployment domain instead.
 
 ---
 
