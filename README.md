@@ -45,7 +45,6 @@ Specialized in RTL Design & UVM Verification, with hands-on experience in indust
 ![ModelSim](https://img.shields.io/badge/ModelSim-Simulation-lightgrey?style=flat-square)
 ![Vivado](https://img.shields.io/badge/Vivado-Xilinx-purple?style=flat-square)
 ![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-FPGA-blue?style=flat-square)
-![Icarus Verilog](https://img.shields.io/badge/Icarus%20Verilog-Simulation-lightblue?style=flat-square)
 
 ---
 
