@@ -13,7 +13,7 @@ RTL design of a single-cycle RV32I CPU in Verilog, including ALU, register file,
 <td width="50%" valign="top">
 
 **AXI VIP Verification (UVM)**
-AXI4 VIP verifying read/write transactions, burst types, and out-of-order responses. Built reusable UVM components—driver, monitor, scoreboard, and coverage collector—with assertion-based checks.
+AXI4 VIP verifying read/write transactions, burst types, and out-of-order responses. Built reusable UVM components — driver, monitor, scoreboard, and coverage collector — with assertion-based checks.
 
 `SystemVerilog` `UVM` `VCS` `QuestaSim`
 
@@ -23,9 +23,9 @@ AXI4 VIP verifying read/write transactions, burst types, and out-of-order respon
 <td width="50%" valign="top">
 
 **APB-Based SPI Protocol**
-Designed and implemented an APB-based SPI protocol in Verilog, integrating an APB slave interface with an SPI master controller for register access and serial data communication. Developed a SystemVerilog/UVM verification environment with directed and constrained-random testcases, assertions, protocol checkers, and functional coverage to validate protocol compliance and ensure coverage closure.
+RTL design of APB interface and SPI communication modules, with a UVM testbench for protocol validation. Verified using directed and constrained-random testcases; achieved coverage closure via waveform analysis.
 
-`Verilog` `SystemVerilog` `UVM` `APB` `SPI`
+`Verilog` `UVM`
 
 </td>
 <td width="50%" valign="top">
@@ -41,9 +41,9 @@ RTL design with a SystemVerilog testbench, achieving 100% functional coverage.
 <td width="50%" valign="top">
 
 **Traffic Light Controller (FSM)**
-Designed and implemented a 6-state Moore FSM for a multi-directional traffic light controller, ensuring correct signal sequencing and state transitions. Verified functionality through simulation on Xilinx FPGA tools.
+6-state Moore FSM with correct sequencing verified through simulation.
 
-`Verilog` `FSM` `Vivado`
+`Verilog`
 
 </td>
 <td width="50%" valign="top">
