@@ -25,21 +25,25 @@ Specialized in RTL Design & UVM Verification, with hands-on experience in indust
 ### Tech Stack
 
 **Design**
+
 ![Verilog](https://img.shields.io/badge/Verilog-RTL-blue?style=flat-square)
 ![RISC-V](https://img.shields.io/badge/RISC--V-RV32I-9cf?style=flat-square)
 ![FPGA](https://img.shields.io/badge/FPGA-Implementation-blue?style=flat-square)
 
 **Verification**
+
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-UVM-green?style=flat-square)
 ![UVM](https://img.shields.io/badge/UVM-Verification-orange?style=flat-square)
 ![SVA](https://img.shields.io/badge/SVA-Assertions-red?style=flat-square)
 
 **Protocols**
+
 ![AXI](https://img.shields.io/badge/AXI-Protocol-purple?style=flat-square)
 ![APB](https://img.shields.io/badge/APB-Bus-yellow?style=flat-square)
 ![SPI](https://img.shields.io/badge/SPI-Protocol-red?style=flat-square)
 
 **Tools**
+
 ![VCS](https://img.shields.io/badge/VCS-Synopsys-black?style=flat-square)
 ![QuestaSim](https://img.shields.io/badge/QuestaSim-Siemens-blue?style=flat-square)
 ![ModelSim](https://img.shields.io/badge/ModelSim-Simulation-lightgrey?style=flat-square)
@@ -50,7 +54,7 @@ Specialized in RTL Design & UVM Verification, with hands-on experience in indust
 
 ### Experience
 
-**VLSI Design & Verification Trainee**
+**VLSI Design & Verification Trainee**  
 *Maven Silicon, Bengaluru — Jul 2025 to Present*
 
 - Developed RTL and UVM-based verification environments
@@ -67,48 +71,43 @@ Specialized in RTL Design & UVM Verification, with hands-on experience in indust
 <td width="50%" valign="top">
 
 **RV32I Single-Cycle RISC-V Core**
+
 RTL design of a single-cycle RV32I CPU in Verilog, including ALU, register file, immediate generator, control unit, instruction memory, and data memory. Supports R/I/S/B/J instruction formats. Verified on Xilinx Vivado (XSim).
 
 `Verilog` `Vivado`
 
 </td>
+
 <td width="50%" valign="top">
 
 **AXI VIP Verification (UVM)**
+
 AXI4 VIP verifying read/write transactions, burst types, and out-of-order responses. Built reusable UVM components — driver, monitor, scoreboard, and coverage collector — with assertion-based checks.
 
 `SystemVerilog` `UVM` `VCS` `QuestaSim`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 **APB-Based SPI Protocol**
+
 RTL design of APB interface and SPI communication modules, with a UVM testbench for protocol validation. Verified using directed and constrained-random testcases; achieved coverage closure via waveform analysis.
 
 `Verilog` `UVM`
 
 </td>
-<td width="50%" valign="top">
 
-**Mod-12 Counter**
-RTL design with a SystemVerilog testbench, achieving 100% functional coverage.
-
-`SystemVerilog`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **Traffic Light Controller (FSM)**
+
 6-state Moore FSM with correct sequencing verified through simulation.
 
 `Verilog`
 
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -117,19 +116,26 @@ RTL design with a SystemVerilog testbench, achieving 100% functional coverage.
 
 ### Achievements
 
-- 3rd Place — State Level Project Exhibition
-- Certified in Verilog & SystemVerilog (Cadence, Udemy)
-- Strong expertise in debugging, coverage closure, and waveform analysis
+- 🏆 3rd Place — State Level Project Exhibition
+- 📜 Certified in Verilog & SystemVerilog (Cadence, Udemy)
+- 🔍 Strong expertise in debugging, coverage closure, and waveform analysis
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adiugare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adiugare&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiugare&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adiugare&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adiugare&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
+<p align="center">
+<a href="mailto:adityaugare2003@gmail.com">adityaugare2003@gmail.com</a> &nbsp;|&nbsp;
+<a href="https://www.linkedin.com/in/aditya-ugare">linkedin.com/in/aditya-ugare</a>
 </p>
