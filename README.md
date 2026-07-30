@@ -68,7 +68,7 @@ Specialized in RTL Design & UVM Verification, with hands-on experience in indust
 <td width="50%" valign="top">
 
 **RV32I Single-Cycle RISC-V Core**
-RTL design of a single-cycle RV32I CPU in Verilog, including ALU, register file, immediate generator, control unit, instruction memory, and data memory. Supports R/I/S/B/J instruction formats. Verified on Icarus Verilog and Xilinx Vivado (XSim).
+RTL design of a single-cycle RV32I CPU in Verilog, including ALU, register file, immediate generator, control unit, instruction memory, and data memory. Supports R/I/S/B/J instruction formats. Verified on  Xilinx Vivado (XSim).
 
 `Verilog` `Icarus Verilog` `Vivado`
 
