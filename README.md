@@ -126,16 +126,10 @@ RTL design with a SystemVerilog testbench, achieving 100% functional coverage.
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adiugare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adiugare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiugare&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Adiugare&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-<a href="mailto:adityaugare2003@gmail.com">adityaugare2003@gmail.com</a> &nbsp;|&nbsp;
-<a href="https://www.linkedin.com/in/aditya-ugare">linkedin.com/in/aditya-ugare</a>
+  <img src="https://streak-stats.demolab.com?user=Adiugare&theme=tokyonight&hide_border=true" />
 </p>
