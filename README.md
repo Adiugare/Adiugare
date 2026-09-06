@@ -61,7 +61,7 @@ Specialized in RTL Design & UVM Verification, with hands-on experience in indust
 ### Experience
 
 **VLSI Design & Verification Trainee**
-*Maven Silicon, Bengaluru — Jul 2025 to Present*
+*Maven Silicon, Bengaluru — Jul 2025 to May 2026*
 
 - Developed RTL and UVM-based verification environments
 - Built constrained-random testbenches with assertions and protocol checkers
@@ -129,13 +129,15 @@ RTL design of APB interface and SPI communication modules, with a UVM testbench 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityaugare2003&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaugare2003&hide_border=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaugare2003&layout=compact&hide_border=true" height="165" />
 </p>
 
 ---
 
 <p align="center"><i>Open to VLSI Design & Verification roles — let's connect!</i></p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaugare2003&hide_border=true" />
+</p>
