@@ -8,6 +8,11 @@ Specialized in RTL Design & UVM Verification, with hands-on experience in indust
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-ugare"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:adityaugare2003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/adityaugare2003"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityaugare2003&style=flat-square&color=blue" alt="profile views" />
 </p>
 
 ---
@@ -19,6 +24,7 @@ Specialized in RTL Design & UVM Verification, with hands-on experience in indust
 - Strong foundation in Digital Design, RTL, and UVM Verification
 - Experienced in building robust UVM testbenches with **95%+ functional & code coverage**
 - Passionate about delivering high-quality silicon through rigorous verification
+- Reach me at **adityaugare2003@gmail.com**
 
 ---
 
@@ -77,7 +83,6 @@ RTL design of a single-cycle RV32I CPU in Verilog, including ALU, register file,
 `Verilog` `Vivado`
 
 </td>
-
 <td width="50%" valign="top">
 
 **AXI VIP Verification (UVM)**
@@ -88,7 +93,6 @@ AXI4 VIP verifying read/write transactions, burst types, and out-of-order respon
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -99,7 +103,6 @@ RTL design of APB interface and SPI communication modules, with a UVM testbench 
 `Verilog` `UVM`
 
 </td>
-
 <td width="50%" valign="top">
 
 **Traffic Light Controller (FSM)**
@@ -121,3 +124,18 @@ RTL design of APB interface and SPI communication modules, with a UVM testbench 
 - Strong expertise in debugging, coverage closure, and waveform analysis
 
 ---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaugare2003&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaugare2003&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaugare2003&layout=compact&hide_border=true" height="165" />
+</p>
+
+---
+
+<p align="center"><i>Open to VLSI Design & Verification roles — let's connect!</i></p>
