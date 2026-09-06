@@ -120,5 +120,5 @@ RTL design of APB interface and SPI communication modules, with a UVM testbench 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaugare2003&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adiugare&hide_border=true" />
 </p>
